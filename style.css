@@ -100,7 +100,7 @@ header ul li a {
 .thumb li {
   list-style: none;
   display: inline-block;
-  margin: 20px;
+  margin: 0 20px;
   cursor: pointer;
   transition: 0.5s;
 }
